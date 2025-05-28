@@ -10,7 +10,7 @@ function abreModal(titulo,mensagem){
     })
 }
 
-let btnReiniciar = document.querySelector('#btnReiniciar')
+let btnReiniciar = document.querySelector('#btnReiniciar').style.backgroundColor = 'yellow';
 btnReiniciar.addEventListener('click',()=>{
     location.reload()
 });

@@ -27,7 +27,7 @@ function comparaListas(letra){
         carregaImagemForca();
 
         if(tentativas == 0){
-            abreModal("OPS!", `Não foi dessa vez ... A palavra secreta era <br> ${palavraSecretaSorteada}`, 'Tente novamente clicando no joystick')
+            abreModal("OPS!", `Não foi dessa vez ... A palavra secreta era <br> ${palavraSecretaSorteada}, Tente novamente clicando no joystick`)
         }
     } 
     else{
@@ -48,7 +48,7 @@ function comparaListas(letra){
     }
 
     if(vitoria == true){
-        abreModal("PARABÉNS!", `Você venceu...`, 'clique no joystick para jogar novamente')
+        abreModal("PARABÉNS!", `Você venceu...clique no joystick para jogar novamente`, )
         tentativas = 0;
     }
 }

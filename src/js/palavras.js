@@ -125,15 +125,57 @@ const palavras = [
         categoria: "HYGTG MUSICA"
     },
     palavra033 = {
-        nome: "I  MISS YOU I'M SORRY",
+        nome: "I  MISS YOU I M SORRY",
         categoria: "HYGTG MUSICA"
     },
     palavra034 = {
         nome: "LOVE STORY",
         categoria: "HYGTG MUSICA"
     },
-
-    
+    palavra035 = {
+        nome: "VENOM",
+        categoria: "HYGTG VILAO"
+    },
+    palavra036 = {
+        nome: "DUENDE VERDE",
+        categoria: "HYGTG VILAO"
+    },
+    palavra037 = {
+        nome: "DR CURT CONNORS",
+        categoria: "HYGTG VILAO"
+    },
+    palavra038 = {
+        nome: "HOMEM DE AREIRA",
+        categoria: "HYGTG VILAO"
+    },
+    palavra039 = {
+        nome: "HYDRA",
+        categoria: "CONTROL VILAO"
+    },
+    palavra040 = {
+        nome: "AGATHA HARKNESS",
+        categoria: "CONTROL VILAO"
+    },
+    palavra041 = {
+        nome: "ANNIE",
+        categoria: "CONTROL TALARICO"
+    },
+    palavra042 = {
+        nome: "MESA DO HOTEL",
+        categoria: "CONTROL SEXO SEXO SEM PARAR"
+    },
+    palavra043 = {
+        nome: "CAMA",
+        categoria: "CONTROL SEXO SEXO SEM PARAR"
+    },
+    palavra044 = {
+        nome: "AS PERNAS DA GWEN",
+        categoria: "HYGTG SEXO SEXO SEM PARAR"
+    },
+    palavra045 = {
+        nome: "PIA DO BANHEIRO",
+        categoria: "HYGTG SEXO SEXO SEM PARAR"
+    },
 
 
     

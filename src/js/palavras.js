@@ -112,11 +112,28 @@ const palavras = [
         nome: "AMERICA CHAVEZ",
         categoria: "CONTROL PERSONAGEM"
     },
-
     palavra030 = {
-        nome: "DON T BLAME ME - TAYLOR SWIFT",
+        nome: "DON T BLAME ME",
         categoria: "CONTROL MUSICA"
     },
+    palavra031 = {
+        nome: "US",
+        categoria: "CONTROL MUSICA"
+    },
+    palavra032 = {
+        nome: "YOU BELONG WITH ME",
+        categoria: "HYGTG MUSICA"
+    },
+    palavra033 = {
+        nome: "I  MISS YOU I'M SORRY",
+        categoria: "HYGTG MUSICA"
+    },
+    palavra034 = {
+        nome: "LOVE STORY",
+        categoria: "HYGTG MUSICA"
+    },
+
+    
 
 
     
